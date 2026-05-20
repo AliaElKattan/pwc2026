@@ -1,0 +1,117 @@
+@font-face {
+    font-family: 'Editorial Today';
+    src: url('EditorialToday-BoldItalic.eot');
+    src: local('Editorial Today Bold Italic'), local('EditorialToday-BoldItalic'),
+        url('EditorialToday-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('EditorialToday-BoldItalic.woff2') format('woff2'),
+        url('EditorialToday-BoldItalic.woff') format('woff'),
+        url('EditorialToday-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Editorial Today';
+    src: url('EditorialToday-Regular.eot');
+    src: local('Editorial Today Regular'), local('EditorialToday-Regular'),
+        url('EditorialToday-Regular.eot?#iefix') format('embedded-opentype'),
+        url('EditorialToday-Regular.woff2') format('woff2'),
+        url('EditorialToday-Regular.woff') format('woff'),
+        url('EditorialToday-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Editorial Today';
+    src: url('EditorialToday-Bold.eot');
+    src: local('Editorial Today Bold'), local('EditorialToday-Bold'),
+        url('EditorialToday-Bold.eot?#iefix') format('embedded-opentype'),
+        url('EditorialToday-Bold.woff2') format('woff2'),
+        url('EditorialToday-Bold.woff') format('woff'),
+        url('EditorialToday-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Editorial Today';
+    src: url('EditorialToday-Italic.eot');
+    src: local('Editorial Today Italic'), local('EditorialToday-Italic'),
+        url('EditorialToday-Italic.eot?#iefix') format('embedded-opentype'),
+        url('EditorialToday-Italic.woff2') format('woff2'),
+        url('EditorialToday-Italic.woff') format('woff'),
+        url('EditorialToday-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Editorial Today';
+    src: url('EditorialToday-ExtBdIta.eot');
+    src: local('Editorial Today ExtBd Ita'), local('EditorialToday-ExtBdIta'),
+        url('EditorialToday-ExtBdIta.eot?#iefix') format('embedded-opentype'),
+        url('EditorialToday-ExtBdIta.woff2') format('woff2'),
+        url('EditorialToday-ExtBdIta.woff') format('woff'),
+        url('EditorialToday-ExtBdIta.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Editorial Today';
+    src: url('EditorialToday-ExtraBold.eot');
+    src: local('Editorial Today ExtraBold'), local('EditorialToday-ExtraBold'),
+        url('EditorialToday-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('EditorialToday-ExtraBold.woff2') format('woff2'),
+        url('EditorialToday-ExtraBold.woff') format('woff'),
+        url('EditorialToday-ExtraBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Editorial Today';
+    src: url('EditorialToday-Thin.eot');
+    src: local('Editorial Today Thin'), local('EditorialToday-Thin'),
+        url('EditorialToday-Thin.eot?#iefix') format('embedded-opentype'),
+        url('EditorialToday-Thin.woff2') format('woff2'),
+        url('EditorialToday-Thin.woff') format('woff'),
+        url('EditorialToday-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Editorial Today';
+    src: url('EditorialToday-ThinItalic.eot');
+    src: local('Editorial Today Thin Italic'), local('EditorialToday-ThinItalic'),
+        url('EditorialToday-ThinItalic.eot?#iefix') format('embedded-opentype'),
+        url('EditorialToday-ThinItalic.woff2') format('woff2'),
+        url('EditorialToday-ThinItalic.woff') format('woff'),
+        url('EditorialToday-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Editorial Today';
+    src: url('EditorialToday-SemiBold.eot');
+    src: local('Editorial Today SemiBold'), local('EditorialToday-SemiBold'),
+        url('EditorialToday-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('EditorialToday-SemiBold.woff2') format('woff2'),
+        url('EditorialToday-SemiBold.woff') format('woff'),
+        url('EditorialToday-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+

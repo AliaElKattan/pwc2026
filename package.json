@@ -1,0 +1,23 @@
+{
+  "name": "92no",
+  "version": "1.0.0",
+  "description": "arabic awzan",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://codeberg.org/92no/92no.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "https://codeberg.org/92no/",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
