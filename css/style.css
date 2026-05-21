@@ -180,12 +180,15 @@ color: black;
 }
 
 .events-btn:hover {
-    color: var(--pwc-green);
+    color: var(--pwc-pink) !important;
     background-color: var(--pwc-blue);
     border-color: white;
     cursor: pointer;
 }
-
+.events-btn a {
+    width: 100%;
+    padding: 2rem;
+}
 
 #text-body {
     width: 100%;
@@ -304,6 +307,7 @@ text-decoration: none;
 a:hover {
     color: var(--pwc-pink);
 }
+
 
 .container {
     width: 100%;
