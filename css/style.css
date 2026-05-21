@@ -57,7 +57,11 @@ footer {
 li {
     text-align: left;
     font-size: 1.3rem;
-    font-family: "Nunito";
+}
+
+.event p {
+/*    font-size: 5rem;*/
+    font-family: "Dephunked";
 }
 
 .socials {
@@ -336,6 +340,7 @@ font-family: "Dephunked";
     letter-spacing: -0.02em;
 /*    color: black;*/
 color: var(--pwc-blue);
+margin-bottom: 0rem;
 }
 
 
@@ -414,7 +419,7 @@ p {
     flex-wrap: wrap;
 /*    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));*/
     gap: 10px;
-    margin-top: 5%;
+/*    margin-top: 5%;*/
     justify-content: center;
 /*    width: 100%;*/
     box-sizing: border-box;
@@ -635,6 +640,9 @@ font-weight: 700;
  
 @media screen and (max-width: 650px) {
 
+.event p {
+        line-height: 1.5rem;
+}
 .fixed-bg {
     position: fixed;
     width: 250vw;
@@ -704,7 +712,7 @@ footer {
     }
 
     #nav-logo {
-        margin-left:42%;
+        margin-left:52%;
         width: 170px;
         height: 170px;
     }

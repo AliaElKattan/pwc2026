@@ -1,6 +1,8 @@
 let balls = [];
 let soccerImg;
 
+let ballCount = 12;
+
 function preload() {
   soccerImg = loadImage("/images/football.png");
 }
@@ -8,7 +10,15 @@ function preload() {
 function setup() {
   createCanvas(windowWidth, windowHeight*.91);
 
-  for (let i = 0; i < 12; i++) {
+  if(windowWidth < 600) {
+    ballCount = 5;
+  }
+
+if(windowWidth > 1300) {
+  ballCount = 20;
+
+}
+  for (let i = 0; i < ballCount; i++) {
     balls.push(new Ball());
   }
 }
