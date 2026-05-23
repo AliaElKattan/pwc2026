@@ -84,6 +84,9 @@ li {
     margin-right: 2%;
 }
 
+/*#outerboro img {
+    height: 45px;
+}*/
 .social-logo:hover {
     cursor: pointer;
 }
@@ -707,7 +710,9 @@ footer {
 /*    margin-bottom: 10px;*/
 }
 
-
+/*#outerboro img {
+    height: 35px;
+}*/
 
     .navigation {
 /*        display: grid;*/
