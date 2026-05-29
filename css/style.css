@@ -91,6 +91,12 @@ li {
     cursor: pointer;
 }
 
+
+.resource-header {
+    font-family: "Nunito";
+    text-align: left;
+
+}
 .bodoni-moda-<uniquifier> {
   font-family: "Bodoni Moda";
   font-optical-sizing: auto;
