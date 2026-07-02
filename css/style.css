@@ -654,9 +654,15 @@ font-weight: 700;
     }
 
 
- 
+ #resource-btn {
+    display: none;
+ }
 @media screen and (max-width: 650px) {
 
+
+#resource-btn {
+    display: block;
+}
 .event p {
         line-height: 1.5rem;
 }
